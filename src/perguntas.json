@@ -1,0 +1,53 @@
+[
+    {
+      "question": "Qual seria a sua fama?",
+      "answer": 3,
+      "options": [
+        "Aposto",
+        "Suposto",
+        "Estofo",
+        "Bolo fofo"
+      ],
+      "selected": null
+    },
+    {
+      "question": "Quando eu digo que deixei de te amar?",
+      "answer": 0,
+      "options": [
+        "É porque eu te amo",
+        "É porque eu te quero!",
+        "Eu estou em tuas mãos"
+      ],
+      "selected": null
+    },
+    {
+      "question": "Eu me afasto e me defendo de você?",
+      "answer": 2,
+      "options": [
+        "Mas depois me entrego",
+        "Mas depois eu nego",
+        "É que eu sou louco por você"
+      ],
+      "selected": null
+    },
+    {
+      "question": "E nessa loucura...",
+      "answer": 1,
+      "options": [
+        "De dizer que não te quero",
+        "Disfarçando as evidencias",
+        "Negando as aparencias"
+      ],
+      "selected": null
+    },
+    {
+      "question": "E nessa loucura...",
+      "answer": 2,
+      "options": [
+        "De dizer que não te quero",
+        "Disfarçando as evidencias",
+        "Negando as aparencias"
+      ],
+      "selected": null
+    }
+  ]  
